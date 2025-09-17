@@ -1,5 +1,5 @@
 ## Hi there 👋
-ㅎㅇㅎㅇㅎㅇ
+나는 귀요미 상현이얌 ><
 
 <!--
 **apring999/apring999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
